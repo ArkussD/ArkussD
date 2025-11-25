@@ -1,4 +1,4 @@
-# Hello there! 👋 I'm Arkuss
+# Hello there! 👋 I'm in-septra
 
 I'm an aspiring Systems Developer and Game Dev, deeply interested in system memory, low-level performance, and the long-term goal of building my own engine.
 
